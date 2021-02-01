@@ -3,7 +3,7 @@
  * https://www.elex-project.com/
  */
 
-package kr.pe.elex.mqtt.mosquitto;
+package kr.pe.elex.websocket;
 
 import com.samskivert.mustache.Mustache;
 import org.springframework.boot.autoconfigure.mustache.MustacheEnvironmentCollector;

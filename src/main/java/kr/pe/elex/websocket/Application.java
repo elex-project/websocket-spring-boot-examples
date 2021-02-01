@@ -3,7 +3,7 @@
  * https://www.elex-project.com/
  */
 
-package kr.pe.elex.mqtt.mosquitto;
+package kr.pe.elex.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

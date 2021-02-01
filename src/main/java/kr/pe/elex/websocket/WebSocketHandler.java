@@ -3,7 +3,7 @@
  * https://www.elex-project.com/
  */
 
-package kr.pe.elex.mqtt.mosquitto;
+package kr.pe.elex.websocket;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

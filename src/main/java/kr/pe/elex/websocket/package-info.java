@@ -3,4 +3,4 @@
  * https://www.elex-project.com/
  */
 
-package kr.pe.elex.mqtt.mosquitto;
+package kr.pe.elex.websocket;
